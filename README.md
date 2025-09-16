@@ -5,11 +5,30 @@ This repository contains readings that are important and helpful when learning a
 
 ## General Diffusion
 
+Lilian's Blog on Diffusion Models: [What are Diffusion Models](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
 
+DDPM: [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)
 
+## Discrete Diffusion
 
-
-
+[Simple and Effective Masked Diffusion Language Models](https://arxiv.org/abs/2406.07524)
 
 D3PM: [Structured Denoising Diffusion Models in Discrete State-Spaces](https://arxiv.org/abs/2107.03006)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2107.03006) 
+
+[Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution](https://arxiv.org/abs/2310.16834)
+
+LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
