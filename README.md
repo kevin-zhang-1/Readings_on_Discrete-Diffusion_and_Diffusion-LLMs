@@ -1,7 +1,7 @@
 # Readings_on_Discrete-Diffusion_and_Diffusion-LLMs
 This repository contains readings that are important and helpful when learning about discrete diffusion and diffusion LLMs
 
-## 09/12/2025 - 09/18 Diffusion and Discrete Diffusion Basics
+## 09/12/2025 - 09/18/2025 Diffusion and Discrete Diffusion Basics
 
 ## General Diffusion
 
