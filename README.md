@@ -5,7 +5,7 @@ This repository contains readings that are important and helpful when learning a
 
 ## General Diffusion
 
-Lilian's Blog on Diffusion Models: [What are Diffusion Models](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
+Lilian's Blog on Diffusion Models: [What are Diffusion Models](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/) (Basic math part)
 
 DDPM: [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)
 
