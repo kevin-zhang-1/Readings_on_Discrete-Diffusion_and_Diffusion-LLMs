@@ -19,7 +19,7 @@ D3PM: [Structured Denoising Diffusion Models in Discrete State-Spaces](https://a
 
 ## 09/19 - 09/25 Sampling (Generating) from Diffusion and Discrete Diffusion Models; The Realization of Discrete Diffusion to dLLM
 
-Lilian's Blog on Diffusion Models: [What are Diffusion Models](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/) (Generatting/Samping part)
+Lilian's Blog on Diffusion Models: [What are Diffusion Models](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/) (Generating/Samping part)
 
 LLaDA [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
