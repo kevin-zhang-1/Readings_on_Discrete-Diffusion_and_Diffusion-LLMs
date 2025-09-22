@@ -25,7 +25,7 @@ Lilian's Blog on Diffusion Models: [What are Diffusion Models](https://lilianwen
 
 [Classifier - Free Diffusion Guidance](https://arxiv.org/abs/2207.12598)
 
-LLaDA [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
+LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 
 
