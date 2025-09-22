@@ -19,6 +19,8 @@ D3PM: [Structured Denoising Diffusion Models in Discrete State-Spaces](https://a
 
 ## 09/19 - 09/25 Sampling (Generating) from Diffusion and Discrete Diffusion Models; The Realization of Discrete Diffusion to dLLM
 
+## Conditional Generation of Diffusion Models
+
 Lilian's Blog on Diffusion Models: [What are Diffusion Models](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/) (Generating/Samping part)
 
 [Diffusion Models Beat GANs on Image Synthesis](https://arxiv.org/abs/2105.05233)
@@ -26,6 +28,8 @@ Lilian's Blog on Diffusion Models: [What are Diffusion Models](https://lilianwen
 [Classifier - Free Diffusion Guidance](https://arxiv.org/abs/2207.12598)
 
 [GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffuision Models](https://arxiv.org/abs/2112.10741)
+
+## The Realization of Discrete Diffusion to Diffusion-LLMs
 
 LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
