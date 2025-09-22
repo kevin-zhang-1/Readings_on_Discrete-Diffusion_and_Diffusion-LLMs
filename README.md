@@ -25,7 +25,10 @@ Lilian's Blog on Diffusion Models: [What are Diffusion Models](https://lilianwen
 
 [Classifier - Free Diffusion Guidance](https://arxiv.org/abs/2207.12598)
 
+[GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffuision Models](https://arxiv.org/abs/2112.10741)
+
 LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
+
 
 
 
