@@ -23,6 +23,8 @@ D3PM: [Structured Denoising Diffusion Models in Discrete State-Spaces](https://a
 
 Lilian's Blog on Diffusion Models: [What are Diffusion Models](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/) (Generating/Samping part)
 
+Score-based Methods: [Generative Modeling by Estimating Gradients of the Data Distribution](https://yang-song.net/blog/2021/score/)
+
 [Diffusion Models Beat GANs on Image Synthesis](https://arxiv.org/abs/2105.05233)
 
 [Classifier - Free Diffusion Guidance](https://arxiv.org/abs/2207.12598)
