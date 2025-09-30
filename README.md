@@ -35,6 +35,49 @@ Score-based Methods: [Generative Modeling by Estimating Gradients of the Data Di
 
 LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
+## 09/26 - 10/06 Basic Sampling (Inference) ideas and Methods of Diffusion-LLMs; More General Understanding about Diffusion-LLMs;
+
+## Basic Sampling ideas and Methods of Diffusion-LLMs
+
+[Accelerating Diffusion Large Language Models with SlowFast Sampling: The Three Golden Principles](https://arxiv.org/abs/2506.10848)
+
+[Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding](https://arxiv.org/abs/2505.22618)
+
+[Speculative Diffusion Decoding: Accelerating Language Generation through Diffusion](https://arxiv.org/abs/2408.05636)
+
+[Quantization Meets dLLMs: A Systematic Study of Post-training Quantization for Diffusion LLMs](https://arxiv.org/abs/2508.14896)
+
+[Unveiling the Potential of Diffusion Large Language Model in Controllable Generation](https://arxiv.org/abs/2507.04504)
+
+## More understanding and Learning about Diffusion-LLM (I feel like I still don't have a thorough understanding of diffusion-LLMs, this section helps me understand clearly about diffusion-LLMs, after hopefully after this I have a strong grasp on the idea of diffusion-LLMs)
+
+LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992) (More on LLaDA)
+
+LLaDA code: [https://github.com/ML-GSAI/LLaDA](https://github.com/ML-GSAI/LLaDA)
+
+[A Survey on Diffusion Language Models](https://arxiv.org/abs/2508.10875)
+
+[Train for the Worst, Plan for the Best: Understanding Token Ordering in Masked Diffusions](https://arxiv.org/abs/2502.06768)
+
+[Diffusion vs. Autoregressive Language Models: A Text Embedding Perspective](https://arxiv.org/abs/2505.15045)
+
+[Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models](https://arxiv.org/abs/2503.09573)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
