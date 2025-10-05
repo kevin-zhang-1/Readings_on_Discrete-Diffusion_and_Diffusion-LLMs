@@ -51,7 +51,7 @@ Fast-dLLM code: [https://github.com/NVlabs/Fast-dLLM](https://github.com/NVlabs/
 
 [Unveiling the Potential of Diffusion Large Language Model in Controllable Generation](https://arxiv.org/abs/2507.04504)
 
-## More understanding and Learning about Diffusion-LLM (I feel like I still don't have a thorough understanding of diffusion-LLMs, this section helps me understand clearly about diffusion-LLMs, after hopefully after this I have a strong grasp on the idea of diffusion-LLMs)
+## More understanding and learning about Diffusion-LLM (I feel like I still don't have a thorough understanding of diffusion-LLMs, this section helps me understand clearly about diffusion-LLMs, after hopefully after this I have a strong grasp on the idea of diffusion-LLMs)
 
 LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992) (More on LLaDA)
 
@@ -64,6 +64,10 @@ LLaDA code: [https://github.com/ML-GSAI/LLaDA](https://github.com/ML-GSAI/LLaDA)
 [Diffusion vs. Autoregressive Language Models: A Text Embedding Perspective](https://arxiv.org/abs/2505.15045)
 
 [Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models](https://arxiv.org/abs/2503.09573)
+
+## Also a better general understanding about optimization methods and techniques;
+
+Lilian's blog on optimization: [Large Transformer Model Inference Optimization](https://lilianweng.github.io/posts/2023-01-10-inference-optimization/)
 
 
 
