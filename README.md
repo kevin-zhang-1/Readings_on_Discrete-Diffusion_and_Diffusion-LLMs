@@ -69,7 +69,6 @@ LLaDA code: [https://github.com/ML-GSAI/LLaDA](https://github.com/ML-GSAI/LLaDA)
 
 Lilian's blog on optimization: [Large Transformer Model Inference Optimization](https://lilianweng.github.io/posts/2023-01-10-inference-optimization/)
 
-### Test
 
 
 
