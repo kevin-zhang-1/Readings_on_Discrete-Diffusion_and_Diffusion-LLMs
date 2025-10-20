@@ -67,7 +67,30 @@ LLaDA code: [https://github.com/ML-GSAI/LLaDA](https://github.com/ML-GSAI/LLaDA)
 
 ## Also a better general understanding about optimization methods and techniques;
 
-Lilian's blog on optimization: [Large Transformer Model Inference Optimization](https://lilianweng.github.io/posts/2023-01-10-inference-optimization/)
+Lilian's blog on optimization: [Large Transformer Model Inference Optimization](https://lilianweng.github.io/posts/2023-01-10-inference-optimization
+
+
+## 10/06 - 10/16 Conducted systematic literature review on Efficient Inference of Diffusion-Language Models; Organized them into systematic documentations 
+
+See [Awesome dLLM Inference](https://github.com/heavyball-research/awesome-diffusion-llm)
+
+## 10/16 - 10/23 Focus on Draft-Verify Decoding; Draft-Verify Decoding shows promising potential for improvement and is under explored
+
+[2025.5.31] (Draft-Verify Decoding) [Accelerating Diffusion LLMs via Adaptive Parallel Decoding](https://arxiv.org/abs/2506.00413)
+
+[5 Oct 2025] (Speculative Decoding) [Self Speculative Decoding for Diffusion Large Language Models](https://arxiv.org/abs/2510.04147v1)
+
+[27 May 2025] (Draft-Verify Decoding) [Accelerating Diffusion Language Model Inference via Efficient KV Caching and Guided Diffusion](https://arxiv.org/abs/2505.21467)
+
+[2025.7.24] (Draft-Verify Decoding) [Wide-In, Narrow-Out: Revokable Decoding for Efficient and Effective DLLMs](https://arxiv.org/abs/2507.18578)
+
+[22 Sep 2025] (Speculative Decoding) [Spiffy: Multiplying Diffusion LLM Acceleration via Lossless Speculative Decoding](https://arxiv.org/abs/2509.18085v1)
+
+
+
+
+
+
 
 
 
