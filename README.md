@@ -86,6 +86,10 @@ See [Awesome dLLM Inference](https://github.com/heavyball-research/awesome-diffu
 
 [22 Sep 2025] (Speculative Decoding) [Spiffy: Multiplying Diffusion LLM Acceleration via Lossless Speculative Decoding](https://arxiv.org/abs/2509.18085v1)
 
+## 10/25 - 10/30 More on Draft-Verify Decoding for Diffusion LLM; Foundations for Speculative Decoding
+
+[Fast Inference from Transformers via Speculative Decoding](https://arxiv.org/abs/2211.17192)
+
 
 
 
